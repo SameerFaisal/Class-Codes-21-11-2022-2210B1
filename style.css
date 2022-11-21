@@ -1,0 +1,38 @@
+.p1{
+    /* word-spacing: 10px;
+    text-indent: 50px; */
+    margin-left: 30%;
+    margin-top: 50px;
+    text-align: justify;
+    margin-right: 30%;
+    /* display: inline; */
+
+    /* border-bottom: 2px dotted green;
+    border-top: 2px dotted blue; */
+    border-right: 9px groove blueviolet;
+    border-left: 9px groove pink;
+    border-radius: 9px;
+
+}
+
+#np{
+    color: crimson;
+}
+#np:visited{
+    color: darkgreen;
+}
+img:hover{
+opacity: 0.2;
+}
+.html{
+    color: crimson;
+}
+.line{
+    display: inline;
+}
+.indent{
+    text-indent: 10px;
+}
+img{
+    border: 9px groove crimson;
+}
